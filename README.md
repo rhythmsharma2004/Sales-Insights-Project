@@ -14,6 +14,6 @@ This is an end-to-end **Sales Insights Dashboard Project** built using **SQL** f
 
 ---
 
-## Folder Structure
+
 
 
